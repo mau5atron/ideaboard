@@ -1,25 +1,7 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # ideaboard
+Current state of this project. Notes displayed is seeded data in my Rails API app. 
+Will add further functionality on the React side and implement a way to add notes/ delete notes.
+
+
+<img src="https://user-images.githubusercontent.com/21330560/33528332-6fe3e48e-d82c-11e7-9883-9a2a488a7cfe.png" width="720" height="480"></img> 
